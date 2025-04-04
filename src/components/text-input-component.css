@@ -1,0 +1,213 @@
+.text-input-component-text-input-component {
+  color: #ffffff;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: var(--dl-color-traffls-color-border);
+  border-width: 0.5px;
+  background-color: var(--dl-color-traffls-color-main-background);
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+ 
+.text-input-component-container10 {
+  width: 100%;
+  display: flex;
+  padding-left: 60px;
+  padding-right: 60px;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 0.04);
+}
+ 
+.text-input-component-container11 {
+  width: 100%;
+  height: 65px;
+  display: flex;
+  align-items: center;
+}
+ 
+.text-input-component-container12 {
+  gap: 10px;
+  flex: 1;
+  cursor: text;
+  height: 65px;
+  display: flex;
+  opacity: 0.4;
+  transition: 0.1s;
+  align-items: center;
+}
+ 
+.text-input-component-container12:hover {
+  opacity: 0.7;
+}
+ 
+.text-input-component-text10 {
+  font-size: 14px;
+}
+ 
+.text-input-component-container13 {
+  gap: 20px;
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+ 
+.text-input-component-text11 {
+  font-size: 14px;
+}
+ 
+.text-input-component-text12 {
+  font-size: 14px;
+}
+ 
+.text-input-component-container16 {
+  display: flex;
+  align-items: flex-end;
+  padding-top: 15px;
+  padding-left: 0px;
+  flex-direction: row;
+  padding-bottom: 10px;
+  justify-content: space-between;
+}
+ 
+.text-input-component-container17 {
+  gap: 15px;
+  width: 650px;
+  height: 170px;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.text-input-component-container18 {
+  display: flex;
+  overflow: hidden;
+  align-items: flex-end;
+  padding-top: 15px;
+  border-color: rgba(255, 255, 255, 0.2);
+  border-width: 0.5px;
+  padding-left: 10px;
+  border-radius: 10px;
+  padding-right: 10px;
+  flex-direction: column;
+  padding-bottom: 10px;
+  background-color: rgba(255, 255, 255, 0.05);
+}
+ 
+.text-input-component-textarea {
+  color: #ffffff;
+  width: 100%;
+  resize: none;
+  outline: none;
+  font-size: 15px;
+  background-color: rgba(255, 255, 255, 0);
+}
+ 
+.text-input-component-container19 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.text-input-component-container20 {
+  gap: 10px;
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+}
+ 
+.text-input-component-container21 {
+  gap: 10px;
+  flex: 0 0 auto;
+  width: 2.25rem;
+  cursor: pointer;
+  height: 2.25rem;
+  display: flex;
+  opacity: 0.7;
+  transition: 0.1s;
+  align-items: center;
+  border-color: rgba(255, 255, 255, 0.4);
+  border-width: 0.5px;
+  border-radius: 10px;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+ 
+.text-input-component-container21:hover {
+  opacity: 1;
+}
+ 
+.text-input-component-container22 {
+  gap: 15px;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: row;
+}
+ 
+.text-input-component-text13 {
+  opacity: 0.4;
+  font-size: 12px;
+}
+ 
+.text-input-component-container23 {
+  gap: 10px;
+  flex: 0 0 auto;
+  width: 2.25rem;
+  height: 2.25rem;
+  display: flex;
+  align-items: center;
+  border-radius: var(--dl-layout-radius-round);
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.text-input-component-container24 {
+  flex: 0 0 auto;
+  cursor: pointer;
+  height: 45px;
+  display: flex;
+  opacity: 0.4;
+  transition: 0.1s;
+  align-items: center;
+  border-color: #ffffff;
+  border-width: 0.5px;
+  padding-left: 30px;
+  border-radius: 10px;
+  padding-right: 30px;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.text-input-component-container24:hover {
+  opacity: 1;
+}
+ 
+.text-input-component-text14 {
+  font-size: 14px;
+}
+ 
+.text-input-component-text15 {
+  display: inline-block;
+}
+ 
+.text-input-component-text16 {
+  display: inline-block;
+}
+ 
+.text-input-component-text17 {
+  display: inline-block;
+}
+ 
+.text-input-component-text18 {
+  display: inline-block;
+}
+ 
+.text-input-component-text19 {
+  display: inline-block;
+}
